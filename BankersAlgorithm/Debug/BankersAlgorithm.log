@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\aaron\documents\school\spring 2017\cmpt 300\assignments\a3\q2\bankersalgorithm\main.cpp(78): warning C4101: 'need': unreferenced local variable
+  BankersAlgorithm.vcxproj -> C:\Users\Aaron\Documents\School\Spring 2017\CMPT 300\Assignments\A3\Q2\BankersAlgorithm\Debug\BankersAlgorithm.exe
+  BankersAlgorithm.vcxproj -> C:\Users\Aaron\Documents\School\Spring 2017\CMPT 300\Assignments\A3\Q2\BankersAlgorithm\Debug\BankersAlgorithm.pdb (Partial PDB)
